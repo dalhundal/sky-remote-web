@@ -1,0 +1,28 @@
+{
+  "name": "sky-remote-web",
+  "version": "1.0.0",
+  "description": "Web interface for sending remote control commands to a Sky TV box",
+  "main": "sky-remote-web.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dalhundal/sky-remote-web.git"
+  },
+  "keywords": [
+    "Sky",
+    "TV",
+    "Remote"
+  ],
+  "author": "Dal Hundal",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/dalhundal/sky-remote-web/issues"
+  },
+  "homepage": "https://github.com/dalhundal/sky-remote-web#readme",
+  "dependencies": {
+    "express": "^4.13.4",
+    "sky-remote": "^1.0.2"
+  }
+}
