@@ -2,7 +2,7 @@
 
 Web interface for sending remote control commands to a Sky TV box.
 
-It is basic and ugly, but functional.
+It is basic and *was* ugly, but functional.
 
 #### Usage
 
@@ -12,5 +12,4 @@ Ensure the text box at the top of the page contains the IP address of your Sky b
 
 Nothing more to it.
 
-
-
+Sky remote skin by DJBenson.
