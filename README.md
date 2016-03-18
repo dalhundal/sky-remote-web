@@ -12,5 +12,4 @@ Ensure the text box at the top of the page contains the IP address of your Sky b
 
 Nothing more to it.
 
-
-
+Sky remote skin by DJBenson.
