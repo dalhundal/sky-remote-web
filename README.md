@@ -2,7 +2,7 @@
 
 Web interface for sending remote control commands to a Sky TV box.
 
-It is basic and ugly, but functional.
+It is basic and *was* ugly, but functional.
 
 #### Usage
 
